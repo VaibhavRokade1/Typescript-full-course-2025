@@ -55,7 +55,8 @@
 
 
 // - tuple – Fixed-length array with specific types
-// Example: [string, number]
+// Example: [string, number] 
+// ex --> ekhadya array chi lenght fixed asate aani types of members pun 
 
 
 // - function – Callable block of code
@@ -70,3 +71,9 @@
 // Example: enum Color { Red, Green, Blue }
 
 
+
+// // enum userRecourd/s {
+//     ADMIN = "Adimin",
+//     SUPER_ADMIN = "SUPER_ADMIN",
+//     GUEST = "GUEST"
+// }
