@@ -31,4 +31,11 @@
 //     SUCCESS = "201 ok"
 // }
 
+// StatusCode.SUCCESS = "dffsdf" it by default read-only...!!! 
+
 // console.log(StatusCode.SUCCESS)
+
+
+
+// tuples is fxed array size with fixed type 
+// const person : [string , number , boolean] = ["Vaibhav" , 100, true];
