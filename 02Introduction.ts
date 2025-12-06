@@ -1,7 +1,7 @@
-// TSCode  ------ all typescript codes
+// TSCode  ------ All typescript codes
 //   |
 //   |
-// lexcer ------- create all tokens of all codes files
+// lexer ------- create all tokens of all codes files
 //   |
 //   |
 // Parser ------- to get tokens from the parser and create and understand ( abstract syntax tree ) / ( concourent tree )
