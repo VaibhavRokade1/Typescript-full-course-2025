@@ -16,4 +16,4 @@
 //  Emiter ------ emiter tacks our
 //   |
 //   |
-// .js  .d.ts .map
+// .js.d.ts.map
